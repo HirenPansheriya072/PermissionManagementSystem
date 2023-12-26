@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.table_cell_p{
+    padding: 24px;
+    /* border: 2px solid #94a3b8; */
+    border-collapse: collapse;
+    font: 17px black;
+    font-weight: 400;
+}
+.table_cell_head{
+    padding: 20px;
+    font: 20px black;
+    font-weight: 600;
+}

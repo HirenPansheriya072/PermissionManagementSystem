@@ -1,0 +1,118 @@
+{
+  "employees": [
+    {
+      "name": "hiren",
+      "email": "gyfyb@mailinator.com",
+      "city": "Fugiat dolorem dolor",
+      "phone_number": 7721231231,
+      "department": "Perferendis beatae f",
+      "designation": "Repellendus Aliqua",
+      "salary": 96,
+      "permissions": {
+        "dashboard": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ],
+        "earnings": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ],
+        "projects": [
+          "create",
+          "read",
+          "delete",
+          "update"
+        ],
+        "employees": []
+      },
+      "id": 1
+    },
+    {
+      "name": "kevin",
+      "email": "gohisoz@mailinator.com",
+      "city": "At quo enim debitis ",
+      "phone_number": 9881231231,
+      "department": "Deserunt aliquid ven",
+      "designation": "Culpa ut porro quam ",
+      "salary": 15,
+      "permissions": {
+        "dashboard": [
+          "create"
+        ],
+        "earnings": [
+          "create"
+        ],
+        "projects": [
+          "create"
+        ],
+        "employees": [
+          "create"
+        ]
+      },
+      "id": 3
+    },
+    {
+      "name": "Olivia Parsons",
+      "email": "loketoniq@mailinator.com",
+      "city": "Voluptas magna qui c",
+      "phone_number": 9741231231,
+      "department": "Omnis deleniti disti",
+      "designation": "Vel mollitia minim d",
+      "salary": 97,
+      "permissions": {
+        "dashboard": [
+          "read"
+        ],
+        "earnings": [
+          "create"
+        ],
+        "projects": [
+          "read"
+        ],
+        "employees": []
+      },
+      "id": 4
+    },
+    {
+      "name": "Narendra Singh",
+      "email": "nyho@mailinator.com",
+      "city": "Elit eligendi volup",
+      "phone_number": 2571231231,
+      "department": "Non velit placeat e",
+      "designation": "Sint minus itaque do",
+      "salary": 21,
+      "permissions": {
+        "dashboard": [
+          "create",
+          "read",
+          "delete"
+        ],
+        "earnings": [
+          "update",
+          "create"
+        ],
+        "projects": [
+          "delete",
+          "read"
+        ],
+        "employees": [
+          "create"
+        ]
+      },
+      "id": 5
+    }
+  ],
+  "emp-permission": [
+    {
+      "id": "",
+      "empId": "",
+      "MODULES": {
+        "module": []
+      }
+    }
+  ]
+}
